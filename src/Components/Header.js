@@ -1,11 +1,12 @@
 import React from 'react'
+import HeroImage from './Mini-Components/HeroImage'
 
 
 const Header = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <HeroImage/>
+    </>
   )
 }
 
